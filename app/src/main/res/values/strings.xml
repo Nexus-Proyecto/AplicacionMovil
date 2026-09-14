@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">BRAVAS MARKETING</string>
+    <string name="loading_text">Cargando...</string>
+    <string name="login_title">Iniciar Sesión</string>
+    <string name="hint_usuario">Usuario</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="btn_ingresar">INGRESAR</string>
+</resources>
